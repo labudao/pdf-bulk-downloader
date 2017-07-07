@@ -26,7 +26,8 @@ const to = 12
 downloader.start(urlPattern, from, to)
 ```
 
-`[n]` is a placeholder recognized by the application, which is replaced by the numbers from ``from`` to ``to`` incremented by 1.
+- configure ``urlPattern``, ``from``, ``to``
+- keep ``[n]`` as is: it is a placeholder recognized by the application, which is replaced by the numbers from ``from`` to ``to`` incremented by 1.
 
 ## Installation
 ```
