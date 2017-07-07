@@ -15,6 +15,7 @@
     "npm": "3.10.9"
   },
   "scripts": {
-    "test": "node examples/download-pdfs.js"
+    "test": "node examples/download-pdfs.js",
+    "test-wrong": "node examples/download-wrong-url.js"
   }
 }
