@@ -1,6 +1,6 @@
 {
   "name": "pdf-bulk-downloader",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "author": "Orsika Labuda",
   "license": "MIT",
   "description": "PDF bulk downloader",
@@ -9,8 +9,7 @@
     "type": "git",
     "url": "https://github.com/labudao/pdf-bulk-downloader.git"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devEngines": {
     "node": "6.9.2",
     "npm": "3.10.9"
