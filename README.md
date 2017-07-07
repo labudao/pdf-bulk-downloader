@@ -26,18 +26,18 @@ const to = 12
 downloader.start(urlPattern, from, to)
 ```
 
-`[n]` is a placeholder for the numbers from ``from`` to ``to`` incremented by 1
+`[n]` is a placeholder recognized by the application, which is replaced by the numbers from ``from`` to ``to`` incremented by 1.
 
 ## Installation
 ```
-npm install pdf-bulk-downloader
+npm install pdf-bulk-downloader --save-dev
 ```
 
 ## Examples
 See a typical usage in ``download-pdfs.js``:
 ```
-$ git clone git://github.com/pdf-bulk-downloader.git --depth 1
+$ git clone https://github.com/labudao/pdf-bulk-downloader.git --depth 1
 $ cd pdf-bulk-downloader
 $ npm install
-$ node examples/download-pdfs.js
+$ npm run test
 ```

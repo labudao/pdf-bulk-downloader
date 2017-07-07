@@ -1,13 +1,22 @@
 {
   "name": "pdf-bulk-downloader",
-  "version": "1.0.0",
+  "version": "0.8.0",
+  "author": "Orsika Labuda",
+  "license": "MIT",
   "description": "PDF bulk downloader",
-  "scripts": {
-    "test": "test"
+  "homepage": "https://github.com/labudao/pdf-bulk-downloader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/labudao/pdf-bulk-downloader.git"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "4.15.2"
+  },
+  "devEngines": {
+    "node": "6.9.2",
+    "npm": "3.10.9"
+  },
+  "scripts": {
+    "test": "node examples/download-pdfs.js"
   }
 }
