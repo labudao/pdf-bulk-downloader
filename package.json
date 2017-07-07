@@ -4,10 +4,10 @@
   "author": "Orsika Labuda",
   "license": "MIT",
   "description": "PDF bulk downloader",
-  "homepage": "https://github.com/labudao/pdf-bulk-downloader",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/labudao/pdf-bulk-downloader.git"
+  "homepage": "https://github.com/labudao/pdf-bulk-downloader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/labudao/pdf-bulk-downloader.git"
   },
   "dependencies": {
     "express": "4.15.2"
