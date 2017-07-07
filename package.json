@@ -1,0 +1,13 @@
+{
+  "name": "pdf-bulk-downloader",
+  "version": "1.0.0",
+  "description": "PDF bulk downloader",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
