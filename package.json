@@ -10,7 +10,6 @@
     "url": "https://github.com/labudao/pdf-bulk-downloader.git"
   },
   "dependencies": {
-    "express": "4.15.2"
   },
   "devEngines": {
     "node": "6.9.2",
