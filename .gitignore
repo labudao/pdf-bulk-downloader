@@ -3,3 +3,6 @@
 
 # Runtime output directory
 /out
+
+# Generated files
+npm-debug.log
