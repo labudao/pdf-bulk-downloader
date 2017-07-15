@@ -17,5 +17,8 @@
   "scripts": {
     "test": "node examples/download-pdfs.js",
     "test-wrong": "node examples/download-wrong-url.js"
+  },
+  "devDependencies": {
+    "request": "^2.81.0"
   }
 }
